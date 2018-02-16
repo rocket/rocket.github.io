@@ -1,2 +1,5 @@
 title: GNU Rocket
 markdown: kramdown
+
+plugins:
+  - jekyll-octicons
