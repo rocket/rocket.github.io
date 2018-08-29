@@ -4,8 +4,7 @@ layout: default
 # Rocket
 {: style="text-align: center;"}
 
-![alt text](logo.png)
-{: style="text-align: center;"}
+<p style="text-align: center;"><img src="logo.svg" height="379" alt="logo" /></p>
 
 Rocket is a multi-purpose modular rocket control system. Among its features cross-platform support, a warhead plugin interface and support for fully standards-compliant remote navigation protocols.
 
